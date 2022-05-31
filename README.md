@@ -20,6 +20,8 @@
 
 
 
-[my web-site](https://iknigencev.github.io/)
+[My web-site](https://iknigencev.github.io/)
 
-[telegram](https://t.me/IKnigencev)
+[Telegram](https://t.me/IKnigencev)
+
+[Kaggle](https://www.kaggle.com/ivanknihencev)
