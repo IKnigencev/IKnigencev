@@ -17,6 +17,7 @@
 - #### Python;
 - #### Ruby;
 - #### JavaScript (Базовые знания);
+- #### Go (Базовые знания);
 - #### C++ (Базовые знания);
 - #### Deep and Machine learning skills (NLP, CV, CNN, RNN, Image segmentation, Object detection);
 - #### Git;
