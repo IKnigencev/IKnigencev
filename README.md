@@ -26,4 +26,6 @@
 
 [Telegram](https://t.me/IKnigencev)
 
+[Codewars](https://www.codewars.com/users/ikniga)
+
 [Kaggle](https://www.kaggle.com/ivanknihencev)
