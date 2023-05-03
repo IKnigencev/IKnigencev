@@ -4,7 +4,8 @@
 :round_pushpin: Россия, Екатеринбург.
 
 ### pet-проекты:
-- [Соц. сеть;](https://github.com/IKnigencev/api_yatube)
+- [API приложение соц. сеть на Django;](https://github.com/IKnigencev/api_yatube)
+- [Сайт-блог. Посты, комментарии, лайки, просмотры. На Ruby on Rails](https://github.com/IKnigencev/site_blog_rails)
 - [Api для блога](https://github.com/IKnigencev/api_yamdb)
 - [Тг бот финансовой аналитики](https://github.com/IKnigencev/telegram-bot-finance)
 - [Небольшая поисковая система на C++;](https://github.com/IKnigencev/cpp_simple_search_engine)
