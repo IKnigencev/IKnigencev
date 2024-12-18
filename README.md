@@ -17,7 +17,7 @@
 
 *Frontend:*
 
-> **React⚛ (class, func)** + *TypeScript*, Redux, SCSS, WebPack, Vite etc.
+> **React (class, func)** + *TypeScript*, Redux, SCSS, WebPack, Vite etc.
 
 *Base knowledge and ready to use:*
 
