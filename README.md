@@ -1,33 +1,40 @@
-# Привет, меня зовут Иван Книженцев.
+#
+# Senior Ruby engineer, junior+ Go developer, junior Python developer
+### 👋 Hello there, my name is Ivan Knigencev, currently working as a senior backend developer in [*Callibri*](https://callibri.ru/), Yekaterinburg
+📍 **I'm from Chelyabinsk, Russia**</br>
+🧠 **Started my own path in WEB in 2020**</br>
+🕸️ **More than 2.5 year of pruduction Backend experience**</br>
+☁ **Experience as a mentor for at least 1 year**</br>
+📌 **Currently based in Yekaterinburg, Russia**</br>
 
----
-:round_pushpin: Россия, Екатеринбург.
+### Stack:
 
-### pet-проекты:
-- [API приложение соц. сеть на Django;](https://github.com/IKnigencev/api_yatube)
-- [Сайт-блог. Посты, комментарии, лайки, просмотры. На Ruby on Rails](https://github.com/IKnigencev/site_blog_rails)
-- [Api для блога](https://github.com/IKnigencev/api_yamdb)
-- [Тг бот финансовой аналитики](https://github.com/IKnigencev/telegram-bot-finance)
-- [Небольшая поисковая система на C++;](https://github.com/IKnigencev/cpp_simple_search_engine)
-- [Имитация фитнес-трекера, тренеровка ООП;](https://github.com/IKnigencev/hw_python_oop) 
-- (Проект ради проекта) Тг боты, генерации случаных картинок кошек и собак, комплиментов, а также статей с википедии;
-  * [Cлучайные статьи с википедии;](https://github.com/IKnigencev/randomwiki_article_bot)
-  * [Cлучайные картинки кошек, собак и комплиментов;](https://github.com/IKnigencev/telegram_bot_cat_and_dog)
+#### My current stack can be found here: [*Current tech-stack*](https://github.com/users/IKnigencev/projects)
 
-### Hard skills
-- #### Python;
-- #### Ruby;
-- #### JavaScript (Базовые знания);
-- #### Go (Базовые знания);
-- #### C++ (Базовые знания);
-- #### Deep and Machine learning skills (NLP, CV, CNN, RNN, Image segmentation, Object detection);
-- #### Git;
-- #### Docker (Базовые знания);
-- #### SQL (Базовые знания);
-- #### HTML/CSS;
+*Backend:*
 
-[Telegram](https://t.me/IKnigencev)
+> **Ruby**, **Ruby on Rails**, **Go**, **Python**, PostgreSQL, Elasticsearch, Mongo, SQL, DevOps experience etc.
 
-[Codewars](https://www.codewars.com/users/ikniga)
+*Frontend:*
 
-[Kaggle](https://www.kaggle.com/ivanknihencev)
+> **React⚛ (class, func)** + *TypeScript*, Redux, SCSS, WebPack, Vite etc.
+
+*Base knowledge and ready to use:*
+
+> Java, C#, C++ etc.
+
+*Soft Skills:*
+
+> Responsibility, adaptability, **English language (B2)**, easy-going, aspiration to self-developing, I love teaming up! 
+
+***And I'm really interested in enhancing that list***
+##
+**Making/reviewing web-applications for you**</br>
+</br>
+*Contact me on [*Telegram*](https://t.me/IKnigencev)</br>
+Price depends on *project size**</br>
+
+##
+### You can find me here: </br>
+- [*Telegram*](https://t.me/IKnigencev) </br>
+
