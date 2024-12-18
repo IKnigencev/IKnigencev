@@ -1,5 +1,5 @@
 #
-# Senior Ruby engineer, junior+ Go developer, junior Python developer
+# Senior Ruby engineer, middle Go developer, junior Python developer
 ### 👋 Hello there, my name is Ivan Knigencev, currently working as a senior backend developer in [*Callibri*](https://callibri.ru/), Yekaterinburg
 📍 **I'm from Chelyabinsk, Russia**</br>
 🧠 **Started my own path in WEB in 2020**</br>
