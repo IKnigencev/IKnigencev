@@ -9,7 +9,7 @@
 
 ### Stack:
 
-#### My current stack can be found here: [*Current tech-stack*](https://github.com/users/IKnigencev/projects)
+#### My current stack can be found here: [*Current tech-stack*](https://github.com/users/IKnigencev/projects/5)
 
 *Backend:*
 
